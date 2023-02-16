@@ -78,8 +78,6 @@ This software uses the following open source packages:
 ## Support
 
 
-<p>Or</p> 
-
 
 
 
