@@ -97,6 +97,6 @@ MIT
 ---
 
 
-> GitHub [@EJR-1]([https://github.com/amitmerchant1990](https://github.com/EJR-1)) &nbsp;&middot;&nbsp;
+> GitHub [@EJR-1]([https://github.com/amitmerchant1990](https://github.com/EJR-1))
 
 
