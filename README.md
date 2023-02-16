@@ -12,12 +12,10 @@
 <h4 align="center">A READ.ME profile showcasing my portfolio </h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+
          alt="Gitter">
   </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+
   </a>
 	
   </a>
@@ -55,7 +53,7 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+- Navigate freely through all of my repoitories.
 
 
 
@@ -92,8 +90,7 @@ This software uses the following open source packages:
 
 ## License
 
-MIT
-
+NONE
 ---
 
 
