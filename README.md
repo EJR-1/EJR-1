@@ -12,8 +12,6 @@
 <h4 align="center">A READ.ME profile showcasing my portfolio </h4>
 
 <p align="center">
-
-         alt="Gitter">
   </a>
 
   </a>
