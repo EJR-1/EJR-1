@@ -1,5 +1,10 @@
 # EJR-1
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 <h1 align="center">
   <br>
@@ -9,10 +14,11 @@
   <br>
 </h1>
 
-<h4 align="center">A READ.ME profile showcasing my portfolio </h4>
+<h4 align="center"> A READ.ME profile showcasing my portfolio </h4>
 
-<img width="501" alt="image" src="https://user-images.githubusercontent.com/122671771/219528518-dfd72758-4ebb-44fc-acb5-1d501f0d670c.png">
-
+<p align="center">
+	<img width="501" alt="image" src="https://user-images.githubusercontent.com/122671771/219528518-dfd72758-4ebb-44fc-acb5-1d501f0d670c.png">
+</p>
 <p align="center">
   </a>
 
