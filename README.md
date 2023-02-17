@@ -11,6 +11,8 @@
 
 <h4 align="center">A READ.ME profile showcasing my portfolio </h4>
 
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/122671771/219528518-dfd72758-4ebb-44fc-acb5-1d501f0d670c.png">
+
 <p align="center">
   </a>
 
@@ -18,6 +20,7 @@
 	
   </a>
 </p>
+
 
 
 ## Welcome to my GitHub Account
